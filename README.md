@@ -1,4 +1,5 @@
-### Hi there 👋
+### Olá, eu sou a Kauanny 👋
+🌱 Sou uma estudante do 3º ano do ensino médio integrado ao técnico de desenvolvimento de sistemas. 
 
 <!--
 **KakauFelix/KakauFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
