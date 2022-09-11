@@ -33,12 +33,15 @@
   <a href="mailto:kakau24112004tfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kakau.felix.73" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauanny-tenorio-felix-da-silva-36b128235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+ 
+<br>
+  
+<div align="center">   
+  
+  ![Snake animation](https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg)   
   
 </div>
-
-
-![Snake animation](https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg)
-
 
 <!-- 
 **KakauFelix/KakauFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
