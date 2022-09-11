@@ -36,6 +36,10 @@
   
 </div>
 
+
+![Snake animation](https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg)
+
+
 <!-- 
 **KakauFelix/KakauFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
