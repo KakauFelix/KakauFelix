@@ -1,7 +1,7 @@
 <img src="assets/imagens/octocat.png" height="150" style="border-radius: 50px;" align="right" alt="kakau_pic" > 
 
 ### Olá, eu sou a Kauanny 👋
-🌱 Sou uma estudante do 3º ano do ensino médio integrado ao técnico de desenvolvimento de sistemas. 
+🌱 Sou uma estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas.
 <br><br><br>
 
 ##
