@@ -6,7 +6,7 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://github.com/KakauFelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KakauFelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakauFelix&layout=compact&langs_count=7&theme=radical"/>
