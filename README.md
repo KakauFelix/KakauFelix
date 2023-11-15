@@ -4,7 +4,7 @@
 
 <img src="assets/imagens/octocat.png" height="150" style="border-radius: 50px;" align="right" alt="kakau_pic" > 
 
-### Olá, eu sou a Kauanny filha do will dantas👋
+### Olá, eu sou a Kauanny👋
 🌱 Sou uma estudante de Análise e Desenvolvimento de Sistemas. <br>
 🔭 Apaixonada por esse mundo tecnológico. <br>
 🚀 A developer in progress...
