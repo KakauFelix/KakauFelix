@@ -1,66 +1,81 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A28EB&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE!+👋+BE+WELCOME;I+am+Kauanny;I+study+Systems+Analysis+and+Development+at:;São+Paulo+Tech+School+-+SPTech;I+am+Brazilian,+and+I+am+18+years+old!;Enjoy!+🚀)](https://git.io/typing-svg)
+<!-- Banner animado -->
+<!-- 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=6A28EB&size=35&center=true&vCenter=true&width=1000&lines=Olá%2C+eu+sou+a+Kauanny+👋;Desenvolvedora+apaixonada+por+tecnologia!;Formada+em+ADS+e+Técnica+em+Desenvolvimento+de+Sistemas;Explorando+novas+tecnologias+e+criando+soluções+inovadoras+🚀" />
+</p>
+-->
 
-##
+<h3 align="center">✨ Desenvolvedora apaixonada por tecnologia, inovação e aprendizado contínuo ✨</h3>
+<p align="center">👩‍💻 Formada em ADS • Técnica em DS • Explorando o mundo dev com criatividade 🚀</p>
 
-<img src="assets/imagens/octocat.png" height="150" style="border-radius: 50px;" align="right" alt="kakau_pic" > 
+---
 
-### Olá, eu sou a Kauanny👋
-🌱 Analista e Desenvolvedora de Sistemas. <br>
-🔭 Apaixonada por esse mundo tecnológico. <br>
-🚀 A developer in progress...
-<br><br>
+<img src="assets/imagens/octocat.png" height="150" align="right" alt="octocat" />
 
-##
+### 👩‍💻 Sobre mim
 
-<div align="center" style="display: flex;">
-  <a href="https://github.com/KakauFelix">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=KakauFelix&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakauFelix&layout=compact&langs_count=7&theme=radical"/>
-</div>
+🌎 Olá! Sou a **Kauanny**, desenvolvedora de software, com base em São Paulo – SP.  
+🎓 **Formada em Análise e Desenvolvimento de Sistemas** pela SPTech  
+🛠️ Também possuo formação **técnica em Desenvolvimento de Sistemas** (ETEC)  
+🚀 Apaixonada por tecnologia, inovação, soluções criativas e aprendizado contínuo  
+🔍 Sempre em busca de **novas oportunidades** para aplicar meus conhecimentos e crescer profissionalmente
 
-##
+---
 
-<div align="center" style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="40" alt="java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="html5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" alt="js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="40" alt="php" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="40" alt="bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="40" alt="vscode" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" width="40" alt="sql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="40" alt="mysql" />
-</div>
-
-##
+### 🚀 Tech Stack & Ferramentas
 
 <div align="center">
-  <a href="mailto:kakau24112004tfs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/kakau.felix.73" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kauanny-tenorio-felix-da-silva-36b128235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode"/>
+  <img src="https://img.icons8.com/color/48/sap.png" height="50" alt="SAP"/>
 </div>
- 
-<br>
-  
-<div align="center">   
-  
-  ![Snake animation](https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg)   
-  
+
+---
+
+### 💡 Conhecimentos & Experiência
+
+- 🧠 Experiência com **desenvolvimento ABAP & integrações SAP** (BTP, CPI, PI, PO)  
+- 🏆 Vencedora de **Hackathon corporativo com foco em IA**  
+- 🧩 Projetos com **metodologias ágeis (Scrum)**  
+- 💻 Vivência prática em **ambientes corporativos e consultoria tecnológica**  
+- 👩‍🎓 Certificados em **UX, Design Thinking, IA, Liderança** e mais
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=KakauFelix&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KakauFelix&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<!-- 
-**KakauFelix/KakauFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Vamos nos conectar?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🚀 ...
--->
+<div align="center">
+  <a href="mailto:kakau24112004tfs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/kakau.felix.73"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kauanny-tenorio-felix-da-silva-36b128235/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
+
+---
+
+### 🐍 Snake Contributions
+
+<div align="center">
+  <img src="https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
