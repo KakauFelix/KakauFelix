@@ -75,7 +75,8 @@
 
 ### 🐍 Snake Contributions
 
-<div align="center">
-  <img src="https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<div align="center">   
+  
+  ![Snake animation](https://github.com/KakauFelix/KakauFelix/blob/output/github-contribution-grid-snake.svg)   
+  
 </div>
-
